@@ -1,4 +1,4 @@
-module github.com/pingcap/tidb/parser
+module github.com/twotigers93/tidb/parser
 
 require (
 	github.com/cznic/mathutil v0.0.0-20181122101859-297441e03548
